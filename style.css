@@ -4,4 +4,11 @@ body {
     font: size 35px;
 }
 
-h1{}
+h1{
+    color:#ffaef8
+}
+
+img {
+    width:500px
+    height:200px
+}    
